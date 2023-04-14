@@ -53,10 +53,3 @@ Advanced Debugging
 5.A single loss eliminates a player.
 
 6.The last player standing is the winner.
-
-
-
-
-
-
-
